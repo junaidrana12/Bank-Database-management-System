@@ -6,7 +6,8 @@ The Bank Database Management System (DBMS) project using MySQL is designed to st
 # Project Overview
 Objective: The primary goal of this project is to create a reliable, secure, and efficient database system that can manage all aspects of banking operations, including customer management, account handling, transaction processing, and loan management.
 
-Technology Used: MySQL is the core technology used for database management due to its robust features, including support for complex queries, data integrity, and security protocols essential for banking environments.
+# Technology Used: 
+MySQL is the core technology used for database management due to its robust features, including support for complex queries, data integrity, and security protocols essential for banking environments.
 
 # Key Components:
 
